@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.GameMode" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#00C853</item>
+    </style>
+</resources>

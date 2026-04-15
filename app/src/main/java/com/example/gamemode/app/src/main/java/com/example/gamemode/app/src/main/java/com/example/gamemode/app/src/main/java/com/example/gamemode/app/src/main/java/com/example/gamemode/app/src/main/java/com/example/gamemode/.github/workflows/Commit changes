@@ -1,0 +1,6 @@
+app/src/main/java/com/example/gamemode/GameService.kt
+app/src/main/java/com/example/gamemode/GameDetector.kt
+app/src/main/java/com/example/gamemode/Optimizer.kt
+app/src/main/java/com/example/gamemode/TemperatureMonitor.kt
+app/src/main/java/com/example/gamemode/LagMonitor.kt
+app/src/main/java/com/example/gamemode/ShizukuManager.kt
